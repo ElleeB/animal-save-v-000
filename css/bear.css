@@ -8,5 +8,9 @@ html {
   right: 0;
 }
 
-/* Write your solution here */
+@media screen only and (min-width: 1196px) {
+  #bear {
+    position-left: 800px;
+  }    
+}
 
